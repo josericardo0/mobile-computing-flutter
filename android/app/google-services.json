@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "55595611322",
+    "project_id": "mobilecomputing-1e5e2",
+    "storage_bucket": "mobilecomputing-1e5e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55595611322:android:92c6b670d2d8554e4ebe83",
+        "android_client_info": {
+          "package_name": "com.example.mobilecomputing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBenJ6Q9dEpisxdHC1PDbHmnwoEiELHSzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
