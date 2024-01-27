@@ -1,1 +1,1 @@
-# mobile-computing-flutter
+# Flutter exercise
